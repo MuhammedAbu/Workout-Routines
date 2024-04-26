@@ -9,7 +9,7 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 	- Working out 3x a week - full body split - hits each movement and body part approximately *3 times a week*
 	- Working out 3x a week - push/legs/pull - hits each movement and body part approximately *1 time a week*
 
- - When switching over to a full-body program use one that has a general structure similar to the sample full-body workouts [here](https://github.com/MuhammedAbu/Workout-Sample-Routine/blob/main/README.md#full-body-workout-2).
+ - When switching over to a full-body program use one that has a general structure similar to the sample full-body workouts [here](https://github.com/MuhammedAbu/Workout-Sample-Routine/blob/main/README.md#full-body-workout-1).
 
  - Most exercise sets, reps, and weight are purposefully left blank to allow for alteration due to personal preference, fitness level, and goals.
 
