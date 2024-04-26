@@ -18,10 +18,11 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 - Bench  - 4x3, 2x5-8 (back off sets, lighter weight but still challenging)
 - Close grip bench OR decline elevated pushups
 - Dumbbell rows (posted or unposted)
-- Dips 
+- Dips  
 - Lateral raises - 1x15, 1x30 (second set lighter)
 - Bicep curls
 - Tricep extensions
+- Isometric: plank or reverse plank 2xmax
 - Leg raises or hanging leg raises: 2 sets till failure
 - Cardio: Treadmill 1x10min
 
@@ -29,21 +30,22 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 - Squat - 4x3, 2xamrap (back off sets, lighter weight but still challenging)
 - Heavy Kettlebell swings
 - Dumbbell lunges
-- Leg extensions
 - Leg curls
+- Leg extensions
 - Isometric: horse stance OR bulgarian split squat holds 2xmax
 - Leg raises or hanging leg raises: 2 sets till failure
 - Cardio: Stationary bike 1x10min
 
 ## Pull:
-- Deadlift - 4x3, 2xamrap (back off sets, lighter weight but still challenging)
+- Deadlift - 4x3, 2x8-12 (back off sets, lighter weight but still challenging)
 - Pull-ups - 30 reps over multiple sets; add weight when can finish 30 reps in 5 sets or less 
 - Decline elevated pushups || push-ups - 2 sets 
 - Barbell rows        
 - Pendley rows   
 - Dumbbell lateral raises && DB Shrugs
 	* Superset - 3x15 (for raises), 3x20 (10 slow, 10 fast; for shrugs) 		
-- Bicep curls      - 3-4x12
+- Bicep curls     
+- Tricep extensions
 - Isometric: Pullup bar dead hangs 2xmax
 - Leg raises or hanging leg raises: 2 sets till failure
 - Cardio: Treadmill 1x10min
