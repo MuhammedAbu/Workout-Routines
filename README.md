@@ -3,7 +3,7 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 
 - When you do not have enough time to workout 5-6 times a week, change to a full body split 3 times a week; 
 	This way you can make progress since you are still frequently targeting each movemnet and body part (3 times) each week while 
-    not getting you burnt out through too much stress from working out 5-6 times a week. It is not as effective but will still maintain and
+    not getting burnt out through too much stress from working out 5-6 times a week. It is not as effective but will still maintain and
 	generate gains in the long term.
 	
 	- Working out 3x a week - full body split - hits each movement and body part approximately *3 times a week*
