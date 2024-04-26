@@ -55,7 +55,7 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 - Ab circuits or treadmill (optional)
 
 * Always have back-off sets after doing heavy lifts, back-off sets should be lighter but still be in the effective weight range.
-	- Ex. If the heavy sets are: `4x3 Bench 235lbs @RPE9-10`, then the back off sets should be: `2x5 195lbs @RPE7-8`; and not 2x5 135lbs @RPE3-4, since that weight is too light for any meaningful adaptions in strength or hypertrophy to occur. 
+	- Ex. If the heavy sets are: `4x3 Bench 235lbs @RPE9-10`, then the back off sets should be: `2x5 195lbs @RPE7-8`; and not 2x5 135lbs @RPE3-4, since that weight is too light for any meaningful adaptations in strength or hypertrophy to occur. 
 	
 ---
 ## Full body workout 1 
