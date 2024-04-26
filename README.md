@@ -80,3 +80,8 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 - cardio
 
 **Alternate between 1 and 2**
+
+## Terms and definitions:
+- amrap - as many reps as possible
+- RPE - rate of percieved exertion, 1 being very light to 10 being one rep maxes.
+- 
