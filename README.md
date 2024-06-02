@@ -16,10 +16,10 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 ---
 ## Push:
 - Bench  - 4x3, 2x5-8 (back off sets, lighter weight but still challenging)
-- Close grip bench OR decline elevated pushups
+- Close grip bench OR decline pushups
 - Dumbbell rows (posted or unposted)
 - Dips  
-- Lateral raises - 1x15, 1x30 (second set lighter)
+- Lateral raises - 1x15, 1x30 (second set w/ lighter weight)
 - Bicep curls
 - Tricep extensions
 - Isometric: plank or reverse plank 2xmax
@@ -39,10 +39,10 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 ## Pull:
 - Deadlift - 4x3, 2x8-12 (back off sets, lighter weight but still challenging)
 - Pull-ups - 30 reps over multiple sets; add weight when can finish 30 reps in 5 sets or less 
-- Decline elevated pushups || push-ups - 2 sets 
+- Decline elevated pushups OR push-ups - 2 sets 
 - Barbell rows        
 - Pendley rows   
-- Dumbbell lateral raises && DB Shrugs
+- Superset: Dumbbell lateral raises and DB Shrugs
 	* Superset - 3x15 (for raises), 3x20 (10 slow, 10 fast; for shrugs) 		
 - Bicep curls     
 - Tricep extensions
@@ -52,6 +52,20 @@ Great for when you can workout 5-6 times a week and have relatively low day-to-d
 
 ***Always have back-off sets after doing heavy lifts, back-off sets should be lighter but still be in the effective weight range.***
 - Ex. If the heavy sets are: `4x3 Bench 235lbs @RPE9-10`, then the back off sets should be: `2x5 195lbs @RPE7-8`; and not 2x5 135lbs @RPE3-4, since that weight is too light for any meaningful adaptations in strength or hypertrophy to occur.
+
+## Pull v2:
+- Barbell rows - 4x12        
+- Pendley rows - 4x8 (heavier weight than barbell rows)
+- Romanian Deadlift - 4x8-12
+- Decline elevated pushups OR push-ups   
+- Pull-ups OR Chin-ups - 30 reps over multiple sets; add weight when can finish 30 reps in 5 sets or less 
+- Superset: Dumbbell lateral raises and DB Shrugs
+	* Superset - 3x15 (for raises), 3x30 (10 slow, 20 fast; for shrugs) 		
+- Bicep curls     
+- Tricep extensions
+- Isometric: Pullup bar dead hangs 2xmax
+- Leg raises or hanging leg raises: 2 sets till failure
+- Cardio: Treadmill 1x10min
 
 ---
 ## Boxing:
